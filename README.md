@@ -15,5 +15,5 @@ GIGABYTE Sabre15K clover for hackintosh
 ## Not Working
 - Wi-Fi
 - USB ports on the left
-- dGPU(NVIDIA® Graphic)
+- GTX 1050 Ti
 - miniDP port marked with "D"
