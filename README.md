@@ -1,10 +1,19 @@
 # Sabre15KClover
 GIGABYTE Sabre15K clover for hackintosh
+## macOS
+- [ ] 10.14 Beta
+- [x] 10.13.5
+- [x] 10.13.4
+- [x] 10.13.3
+- [x] 10.13.2
+- [x] 10.13.1
+- [x] 10.13
+- [x] 10.13 Beta
 ## Specification
 - i7-7700HQ(HD 630)
 - 128GB SSD + 1TB HDD
 - 16GB RAM(8GB*2)
-- GTX 1050 Ti GDDR5 4GB
+- GTX 1050 Ti GDDR5 4GB (Disabled)
 ## Working
 - miniDP
 - HDMI
