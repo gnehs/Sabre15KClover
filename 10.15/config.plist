@@ -112,7 +112,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v dart=0 nv_disable=1 -disablegfxfirmware</string>
+		<string>dart=0 nv_disable=1 -disablegfxfirmware</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -169,7 +169,7 @@
 			<string>BOOTX64.EFI</string>
 		</array>
 		<key>Language</key>
-		<string>zh_CN:0</string>
+		<string>en:0</string>
 		<key>Mouse</key>
 		<dict>
 			<key>DoubleClick</key>
@@ -186,11 +186,11 @@
 			<key>Entries</key>
 			<true/>
 			<key>Legacy</key>
-			<true/>
+			<false/>
 			<key>Linux</key>
 			<false/>
 			<key>Tool</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Theme</key>
 		<string>black_green</string>
@@ -305,7 +305,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02719500GUJ1JH8C</string>
+		<string>C027412704NJ1JHCB</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -335,9 +335,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro14,3</string>
 		<key>SerialNumber</key>
-		<string>C02TPCY3HTD5</string>
+		<string>C02VJGZUHTD5</string>
 		<key>SmUUID</key>
-		<string>74785482-E6A3-464B-8C21-9EE1E0986945</string>
+		<string>A62D069E-17CC-4C84-ABB7-D75D7CE04101</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
