@@ -1,6 +1,8 @@
 # Sabre15KClover
 GIGABYTE Sabre15K clover for hackintosh
 ## macOS
+- [x] 10.15.1
+- [x] 10.15
 - [x] 10.15 Beta
 - [x] 10.14.6
 - [x] 10.14.5
